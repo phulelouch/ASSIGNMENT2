@@ -1,0 +1,14 @@
+Group name: qwerty
+
+Member 1: MANH TUAN NGUYEN
+Member 2: GIA PHU TRAN
+Member 3: NGUYEN PHUONG HA LUONG
+Member 4: THI KHANH HUYEN TA
+
+Keyword 1: cough
+Keyword 2: brick
+Keyword 3: relation
+
+Location Latitude: 37.7749
+Location Longitude: -122.4194
+Location Radius: 200
